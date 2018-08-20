@@ -33,6 +33,3 @@ for i in range(9):
     a = tf.random_crop(reshaped_image,[height,width,3])
     plt.imshow(sess.run(tf.cast(a, tf.uint8)))
     plt.show()
-
-
-print("test")
