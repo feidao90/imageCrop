@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31b56b12-1a4f-4d4e-8d05-6e35f85f7fdd" name="Default Changelist" comment="" />
+    <list default="true" id="31b56b12-1a4f-4d4e-8d05-6e35f85f7fdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/imageCrop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plotTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TFTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +20,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/imageCrop$TFTest.coverage" NAME="TFTest Coverage Results" MODIFIED="1534825898519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imageCrop$plotTest.coverage" NAME="plotTest Coverage Results" MODIFIED="1534833457563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imageCrop$ImageCrop.coverage" NAME="ImageCrop Coverage Results" MODIFIED="1534834114917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TFTest$TFTest.coverage" NAME="TFTest Coverage Results" MODIFIED="1534732776136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="true" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="true" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="true" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-889423036">
@@ -43,27 +71,100 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="542098906">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Pipfile" value="1" />
+          <entry key="checkpoint" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="plotTest" value="2" />
+          <entry key="png" value="2" />
+          <entry key="py" value="24" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="3" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="25" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="plotTest" value="39" />
+          <entry key="py" value="1708" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="1746" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.4" value="8" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plotTest">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imageCrop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="78" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="78" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>size</find>
+      <find>softmax_cross_entropy_with_logits_v2</find>
+      <find>import matplotlib.pyplot as plt</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/tftest.py" />
+        <option value="$PROJECT_DIR$/plotTest" />
+        <option value="$PROJECT_DIR$/imageCrop.py" />
       </list>
     </option>
   </component>
@@ -74,32 +175,36 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="795" />
+    <option name="height" value="803" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TFTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TFTest" type="462c0819:PsiDirectoryNode" />
+              <item name="imageCrop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imageCrop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TFTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TFTest" type="462c0819:PsiDirectoryNode" />
+              <item name="imageCrop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imageCrop" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,7 +212,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,17 +226,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="TFTest" type="PythonConfigurationType" factoryName="Python">
-      <module name="TFTest" />
+  <component name="RunManager" selected="Python.ImageCrop">
+    <configuration name="ImageCrop" type="PythonConfigurationType" factoryName="Python">
+      <module name="imageCrop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/CNN/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -144,6 +249,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TFTest" type="PythonConfigurationType" factoryName="Python">
+      <module name="imageCrop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/CNN/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plotTest" type="PythonConfigurationType" factoryName="Python">
+      <module name="imageCrop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/CNN/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plotTest" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ImageCrop" />
+      <item itemvalue="Python.TFTest" />
+      <item itemvalue="Python.plotTest" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -158,34 +312,69 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="153" y="23" width="1440" height="795" extended-state="0" />
+    <frame x="22" y="23" width="1440" height="803" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989011" visible="true" weight="0.32761088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.07647059" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32848838" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29651162" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.5547653" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32859176" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40406978" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
+      <window_info anchor="right" content_ui="combo" x="476" y="91" width="445" height="280" id="SciView" order="4" sideWeight="0.502193" weight="0.2639485" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -193,118 +382,165 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>sess.run(crop)</expression-string>
+        <expression-string>sess.run(xentropy_sigmoid_y_vals)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sess.run(shuffle)</expression-string>
+        <expression-string>x_array</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sess.run(input_data)</expression-string>
+        <expression-string>sess.run(x_array)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sess.run(size[0]//2)</expression-string>
+        <expression-string>l2_y_out</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sess.run(size[0]/2)</expression-string>
+        <expression-string>sess.run(mov_avg_layer)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sess.run(size[0])</expression-string>
+        <expression-string>sess.run(tf.constant(0.25,shape=[2,2,1,1]))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>image</expression-string>
+        <expression-string>sess.run(tf.constant(0.25,shape=[2,2]))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sess.run(image)</expression-string>
+        <expression-string>sess.run(tf.fill(0.25,x_shape=[2,2,1,1]))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sess.run(distorted_image)</expression-string>
+        <expression-string>x_val</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/estimator/inputs/inputs.py">
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/estimator/inputs/inputs.py" />
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/PIL/Image.py" />
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py" />
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py" />
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py" />
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/framework/ops.py" />
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/client/session.py" />
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/matplotlib/image.py" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="-56">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/PIL/Image.py">
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="2547" selection-start-line="2547" selection-end-line="2547" />
+        <state relative-caret-position="273">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="750" column="4" selection-start-line="750" selection-start-column="4" selection-end-line="750" selection-end-column="4" />
+        <state relative-caret-position="201">
+          <caret line="743" selection-start-line="743" selection-end-line="743" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.6/site-packages/tensorflow/tools/api/generator/api/train/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/model/checkpoint">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.6/site-packages/tensorflow/python/ops/gen_nn_ops.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.6/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.6/site-packages/tensorflow/python/ops/nn_ops.py" />
+    <entry file="file://$PROJECT_DIR$/resources/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="262" column="4" selection-start-line="262" selection-start-column="4" selection-end-line="262" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py">
+    <entry file="file://$PROJECT_DIR$/Pipfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="280" column="4" selection-start-line="280" selection-start-column="4" selection-end-line="280" selection-end-column="4" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/framework/ops.py">
+    <entry file="file:///usr/local/lib/python3.7/site-packages/tensorflow/__init__.py" />
+    <entry file="file:///usr/local/lib/python3.7/site-packages/numpy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4103" selection-start-line="4103" selection-end-line="4103" />
+        <state relative-caret-position="-2905" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/easy_install.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/six.py" />
+    <entry file="file://$PROJECT_DIR$/tftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/tensorflow/python/client/session.py">
+    <entry file="file://$USER_HOME$/.local/share/virtualenvs/CNN/lib/python3.6/site-packages/matplotlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="1334" selection-start-line="1334" selection-end-line="1334" />
+        <state relative-caret-position="-2964" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plotTest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled/venv/lib/python3.6/site-packages/matplotlib/image.py">
+    <entry file="file://$USER_HOME$/.local/share/virtualenvs/CNN/lib/python3.6/site-packages/matplotlib/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="652" selection-start-line="652" selection-end-line="652" />
+        <state relative-caret-position="330">
+          <caret line="1391" column="48" selection-start-line="1391" selection-start-column="48" selection-end-line="1391" selection-end-column="48" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/test.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/imageCrop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="78" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
